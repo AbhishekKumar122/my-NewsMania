@@ -14,7 +14,7 @@ const NewsItem = (props)=> {
                     }> 
                         <span className="badge rounded-pill bg-danger"> {source} </span>
                     </div>
-                    <img src={!imageUrl ? "https://fdn.gsmarena.com/imgroot/news/21/08/xiaomi-smart-home-india-annoucnements/-476x249w4/gsmarena_00.jpg" : imageUrl} className="card-img-top" alt="..." />
+                    <img src={!imageUrl ? "https://i.pinimg.com/originals/73/22/63/732263880883cc29bf8ae06ea0da5b34.jpg" : imageUrl} className="card-img-top" alt="..." />
                     <div className="card-body">
                         <h5 className="card-title">{title}  </h5>
                         <p className="card-text">{description}</p>
