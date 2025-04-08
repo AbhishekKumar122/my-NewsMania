@@ -12,7 +12,7 @@ const App = () => {
 
   return (
     <div>
-    <Router basename="/my-NewsMania">
+    <Router>
         <NavBar /> 
         <LoadingBar
           height={3}
