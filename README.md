@@ -26,13 +26,6 @@
 
 ---
 
-## 🎥 Live Demo
-
-Check out the live version of the app:  
-**[Live Demo on Vercel](https://your-newsmania-link.vercel.app)**  
-*(Replace this with your actual deployed link)*
-
----
 
 ## 🔧 Installation
 
